@@ -1,4 +1,4 @@
-<div style={"display: flex; align-items: center; flex-direction: row;"}>
+<div style="display: flex; align-items: center; justify-content: center;">
    <img src="https://github.com/marianabritoazevedo/data-structure-ii/blob/main/bandeira-eua-git.png"/>  
    <h1> Data Structure II </h1>
 </div>
