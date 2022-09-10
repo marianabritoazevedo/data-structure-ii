@@ -16,5 +16,9 @@ Both datasets contain key information related to an app, such as the app's name,
 1- Clone this github repository in your cmd
 
 ```
-https://github.com/marianabritoazevedo/data-structure-ii.git
+git clone https://github.com/marianabritoazevedo/data-structure-ii.git
 ```
+
+2- Open the file `Profitable_apps_POO.ipynb` at Google Colaboratory or Jupyter Notebook
+
+3- Import the files `AppleStore.csv` and `googleplaystore.csv` and run all cells
