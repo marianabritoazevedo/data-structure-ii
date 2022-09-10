@@ -12,3 +12,9 @@ Both datasets contain key information related to an app, such as the app's name,
 - Finally, after cleaning the data, several analyzes were performed on some columns of the dataset, such as the number of applications of a certain genre or category. For this, frequency tables were created using Python dictionaries.
 
 ## :computer: How to run this project in your computer
+
+1- Clone this github repository in your cmd
+
+```
+https://github.com/marianabritoazevedo/data-structure-ii.git
+```
