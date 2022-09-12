@@ -1,6 +1,6 @@
 ## :grey_question:The problem 
 
-The objective of this project was to analyze datasets from Google Play Store and Apple Store, in order to understand which types of applications are most attractive to users. It was a guided project included in dataquest.io formation in the course *Python for Data Engineering: Fundamentals Part II*, addaptaded to include OOP concepts studied in the discipline of data structure II
+The objective of this project was to analyze datasets from Google Play Store and Apple Store, in order to understand which types of applications are most attractive to users. It was a guided project included in dataquest.io formation in the course *Python for Data Engineering: Fundamentals Part II*, addaptaded to include OOP concepts studied in the discipline of data structure II. The original solution from dataquest.io can be found [here](https://github.com/dataquestio/solutions/blob/master/Mission350Solutions.ipynb)
 
 ## :mag:About the dataset
 
