@@ -4,7 +4,7 @@ The objective of this project was to analyze datasets from Google Play Store and
 
 ## :mag:About the dataset
 
-Both datasets contain key information related to an app, such as the app's name, price, genre, size, rating, and more
+Both datasets contain key information related to an app, such as the app's name, price, genre, size, rating, and more.
 
 ## :bulb:Step by step of the project
 - Using the concepts of object-oriented programming (OOP), a class called Dataset was created to store the data in a list of lists, and several methods were created to perform all the necessary analysis of the data.
