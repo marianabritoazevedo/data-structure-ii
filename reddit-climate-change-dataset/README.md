@@ -15,5 +15,6 @@ This project aims to carry out an adaptation of the guided project _"Building Fa
 ## :bulb: About the solution
 
 ### Function 1 
-This function had to made the following query: Given an id of a message on Reddit, return all information about the message
+This function had to made the following query: __Given an id of a message on Reddit, return all information about the message__.
+
 Two implementations were made. The first one was done by iterating over all the rows of the dataset, while the second was done using the data structure named dictionary.
