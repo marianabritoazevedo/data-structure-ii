@@ -23,7 +23,7 @@ This function had to made the following query: __Given an id of a message on Red
 
 Two implementations were made. The first one was done by iterating over all the rows of the dataset, while the second was done using the data structure named dictionary.
 
-To compare the performance of both approaches, it was created a list with 100 random ids from de dataset, and was calculated the total time to find those 100 ids in the dataset using both approaches. Doing a time analysis, it was seen that the function implemented with a dictionary was `115193` times faster than the function implemented with a loop over all rows.
+To compare the performance of both approaches, it was created a list with 100 random ids from de dataset, and was calculated the total time to find those 100 ids in the dataset using both approaches. Doing a time analysis, it was seen that the function implemented with a dictionary was `221963` times faster than the function implemented with a loop over all rows.
 
 ### Function 2 
 This function had to made the following query: __Given a lower and upper bound of the "sentiment" column, return all messages with sentiment values between the lower and upper bounds__.
