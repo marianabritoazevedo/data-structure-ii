@@ -12,6 +12,8 @@ This project aims to carry out an adaptation of the guided project _"Building Fa
 2. Given a lower and upper bound of the "sentiment" column, return all messages with sentiment values between the lower and upper bounds;
 3. Given a parameter value, return two messages whose sum of the value of the "score" column is equal to the parameter. Return -1 if it doesn't exist.
 
+:warning: It is important to say that this is a very large dataset, with more than 4.5 million rows (approximately 4GB), so some challenges were faced, like the limit of RAM memory at Google Colaboratory and the runtime of some functions.
+
 ## :bulb: About the solution
 
 ### Function 1 
