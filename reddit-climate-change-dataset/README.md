@@ -40,7 +40,7 @@ To compare the performance of both approaches, it was created a list with 10000 
 ## :computer: How to run
 1. Download the dataset [The Reddit Climate Change Dataset](https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset)
 2. Clone this repository
-   `git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git`
+   `git clone https://github.com/marianabritoazevedo/data-structure-ii.git`
    
 3. Import to [Google Colab](https://colab.research.google.com/) the file `guided_building_fast_queries_on_a_csv.ipynb`
 4. Create a folder in Google Drive and add the `The Reddit Climate Change` Dataset.
