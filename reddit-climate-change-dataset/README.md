@@ -37,13 +37,10 @@ Two implementations were made for this query. The first one was done by iteratin
 
 To compare the performance of both approaches, it was created a list with 10000 random values between 0 and 200, and was calculated the total time to find those 10000 values in the dataset using both approaches. Doing a time analysis, it was seen that the function implemented with a dictionary was `1573` times faster than the function implemented with a double loop over all rows.
 
-## Download Dataset
-[The Reddit Climate Change Dataset](https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset)
-
-## How to run
-1. Clone this repository
-   sh
-   git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git
+## :computer: How to run
+1. Download the dataset [The Reddit Climate Change Dataset](https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset)
+2. Clone this repository
+   `git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git`
    
-2. Import to [Google Colab](https://colab.research.google.com/) the file `guided_building_fast_queries_on_a_csv.ipynb`
-3. Create a folder in Google Drive and add the `The Reddit Climate Change` Dataset.
+3. Import to [Google Colab](https://colab.research.google.com/) the file `guided_building_fast_queries_on_a_csv.ipynb`
+4. Create a folder in Google Drive and add the `The Reddit Climate Change` Dataset.
