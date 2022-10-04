@@ -1,12 +1,12 @@
-## :busts_in_silhouette: Components
+## :busts_in_silhouette: Members
 
 This project was made by:
-* Mariana Brito Azevedo - Student in Computer Engineering at UFRN
-* Thaís de Araújo de Medeiros - Student in Computer Engineering at UFRN
+* [Mariana Brito Azevedo](https://github.com/marianabritoazevedo) - Computer Engineering Student at UFRN
+* [Thaís de Araújo de Medeiros](https://github.com/thaisaraujo2000) - Computer Engineering Student at UFRN
 
 ## :mag: About this project
 
-This project aims to carry out an adaptation of the guided project _"Building Fast Queries on a CSV"_ from the course Algorithms Complexity, made by Dataquest.io. Thus, using the dataset _"The Reddit Climate Change Dataset"_, 3 functions were created with two different implementations, in order to compare the performance of each one of them. Those 3 main functions are:
+This project aims to carry out an adaptation of the guided project _"Building Fast Queries on a CSV"_ from the Algorithms Complexity course on [Dataquest plataform](https://www.dataquest.io/). Thus, using the dataset _"The Reddit Climate Change Dataset"_, three functions were created with two different implementations, in order to compare the performance of each one of them. Those three main functions are:
 
 1. Given an id of a message on Reddit, return all information about the message;
 2. Given a lower and upper bound of the "sentiment" column, return all messages with sentiment values between the lower and upper bounds;
