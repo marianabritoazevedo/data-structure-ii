@@ -32,3 +32,8 @@ To execute this query, it was implemented one function responsible for performin
 
 ### Function 3
 This function had to made the following query: __Given a parameter value, return two messages whose sum of the value of the "score" column is equal to the parameter. Return -1 if it doesn't exist__.
+
+Two implementations were made for this query. The first one was done by iterating over all the rows of the dataset (two times) and checking if the sum of the values of those two rows were equal to the target, while the second was done using the data structure named dictionary.
+
+To compare the performance of both approaches, it was created a list with 10000 random values between 0 and 200, and was calculated the total time to find those 10000 values in the dataset using both approaches. Doing a time analysis, it was seen that the function implemented with a dictionary was `1573` times faster than the function implemented with a double loop over all rows.
+
