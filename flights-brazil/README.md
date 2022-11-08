@@ -23,6 +23,8 @@ Then, for each path, functions `shortest_path` and `shortest_path_length` from `
 
 ![img](./img/img-q4-t2-u2.png)
 
+Table with each path:
+
 Path                                           | Path length 
 :-------------------------------------------- | :------:
 City1 (Novo Progresso) -> City2 (Canela)       | 3   
