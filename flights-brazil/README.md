@@ -18,3 +18,5 @@ Northeast    | SBIL    | Ilhéus
 South        | SSCN    | Canela
 Southeast    | SBRP    | Ribeirão Preto
 Central-West | SBAN    | Anápolis
+
+Then, for each path, functions `shortest_path` and `shortest_path_length` from `nxviz` library were used to calculate the shortest path and its length, respectively.
