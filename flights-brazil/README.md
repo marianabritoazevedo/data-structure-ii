@@ -19,4 +19,6 @@ South        | SSCN    | Canela
 Southeast    | SBRP    | Ribeirão Preto
 Central-West | SBAN    | Anápolis
 
-Then, for each path, functions `shortest_path` and `shortest_path_length` from `nxviz` library were used to calculate the shortest path and its length, respectively.
+Then, for each path, functions `shortest_path` and `shortest_path_length` from `nxviz` library were used to calculate the shortest path and its length, respectively. Below, it's possible to check the image with the complete route taken from city 1 to city 5, whose route size is 7, and then the route taken in each path of the complete route is verified.
+
+![img](./img/img-q4-t2-u2.png)
