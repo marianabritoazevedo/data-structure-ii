@@ -22,3 +22,10 @@ Central-West | SBAN    | Anápolis
 Then, for each path, functions `shortest_path` and `shortest_path_length` from `nxviz` library were used to calculate the shortest path and its length, respectively. Below, it's possible to check the image with the complete route taken from city 1 to city 5, whose route size is 7, and then the route taken in each path of the complete route is verified.
 
 ![img](./img/img-q4-t2-u2.png)
+
+Path                                           | Path length 
+:--------------------------------------------: | :------:
+City1 (Novo Progresso) -> City2 (Canela)       | 3   
+City2 (Canela) -> City3 (Ilhéus)               | 2   
+City3 (Ilhéus) -> City4 (Anápolis)             | 1    
+City4 (Anápolis) -> City5 (Ribeirão Preto)     | 1    
