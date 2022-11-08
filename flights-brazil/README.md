@@ -24,7 +24,7 @@ Then, for each path, functions `shortest_path` and `shortest_path_length` from `
 ![img](./img/img-q4-t2-u2.png)
 
 Path                                           | Path length 
-:--------------------------------------------: | :------:
+:-------------------------------------------- | :------:
 City1 (Novo Progresso) -> City2 (Canela)       | 3   
 City2 (Canela) -> City3 (Ilhéus)               | 2   
 City3 (Ilhéus) -> City4 (Anápolis)             | 1    
