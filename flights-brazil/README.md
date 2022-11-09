@@ -15,6 +15,8 @@ Understanding that, it was made an analysis of the degree assortativity using th
 
 ![img](./img/img-q2-com-coefs-ok.png)
 
+It is possible to notice that airports in Brazil, both nationally and regionally, are disassociative, since they all have negative degree assortativity coefficients. This means that airports with many connections do not necessarily connect only to airports with many connections.
+
 ## Question 4
 
 Create a simulated scenario, where you want to take a trip with the following route:
