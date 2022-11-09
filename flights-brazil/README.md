@@ -11,7 +11,7 @@ One way to check the assortativity is from the degree assortativity. It bases th
 *   -1: the network is extremely disassortativity, in other words, different elements connect with each other (in this case, nodes with high degree connect with nodes with low degree);
 *    1: the network is extremely assortativity, in other words, similar elements connect with each other (in this case, nodes with high degree connect with nodes with high degree)
 
-Understanding that, it was made an analysis of the degree assortativity using the function `degree_assortativity_coefficient` and making a visual analysis between the degree of the vertex and the average number of neighbors for the airports in Brazil and for the airports for each region of Brasil individualy. The image below shows the results obtained:
+Understanding that, it was made an analysis of the degree assortativity using the `degree_assortativity_coefficient` function and making a visual analysis between the degree of the vertex and the average number of neighbors for the airports in Brazil and for the airports for each region of Brasil individualy. The image below shows the results obtained:
 
 ![img](./img/img-q2-com-coefs-ok.png)
 
