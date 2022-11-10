@@ -6,10 +6,10 @@ Perform a bivariate analysis between the degree of the vertex and the average nu
 
 First of all, it's important to understand the concept of assortativity. Assortativity is a metric that evaluates homophily, and this is a property that evaluates whether nodes of the same "type" have more connections, that is, most connections happen between similar nodes.
 
-One way to check the assortativity is from the degree assortativity. It bases the assortativity by the degree of the nodes, and this coefficient can variate between -1 and 1, where:
+One way to check the assortativity is from the degree assortativity. It bases the assortativity by the degree of the nodes, and the degree assortativity can be measured with the Pearson's correlation coefficient. This coefficient can variate between -1 and 1, where:
 
-*   -1: the network is extremely disassortativity, in other words, different elements connect with each other (in this case, nodes with high degree connect with nodes with low degree);
-*    1: the network is extremely assortativity, in other words, similar elements connect with each other (in this case, nodes with high degree connect with nodes with high degree)
+*   -1: the network is extremely disassortativity (according to the degree), in other words, different elements connect with each other (in this case, nodes with high degree connect with nodes with low degree);
+*    1: the network is extremely assortativity (according to the degree), in other words, similar elements connect with each other (in this case, nodes with high degree connect with nodes with high degree)
 
 Understanding that, it was made an analysis of the degree assortativity using the `degree_assortativity_coefficient` function and making a visual analysis between the degree of the vertex and the average number of neighbors for the airports in Brazil and for the airports for each region of Brazil individualy. The image below shows the results obtained:
 
