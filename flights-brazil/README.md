@@ -86,6 +86,18 @@ City2 (Canela) -> City3 (Ilhéus)               | 2
 City3 (Ilhéus) -> City4 (Anápolis)             | 1    
 City4 (Anápolis) -> City5 (Ribeirão Preto)     | 1    
 
+## How to run this project
+
+1- Clone this repository with the following code:
+
+```git clone https://github.com/marianabritoazevedo/data-structure-ii.git```
+
+2- Upload the file `flights_brazil.ipynb` (inside the folder `flights_brasil`) to your Google Colaboratory
+
+3- Open the file `flights_brazil.ipynb` and upload the zip file `zip-flights-brazil.zip`
+
+4- Run all the cells of the Colab notebook
+
 ## References
 - [Álvaro's Repository](https://github.com/alvarofpp/dataset-flights-brazil)
 - [Ivanovitch's Repository](https://github.com/ivanovitchm/datastructure)
