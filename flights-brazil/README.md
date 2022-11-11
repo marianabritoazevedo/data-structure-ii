@@ -90,7 +90,9 @@ City4 (Anápolis) -> City5 (Ribeirão Preto)     | 1
 
 1- Clone this repository with the following code:
 
-```git clone https://github.com/marianabritoazevedo/data-structure-ii.git```
+```
+git clone https://github.com/marianabritoazevedo/data-structure-ii.git
+```
 
 2- Upload the file `flights_brazil.ipynb` (inside the folder `flights_brasil`) to your Google Colaboratory
 
