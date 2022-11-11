@@ -44,16 +44,24 @@ Understanding that, it was made an analysis of the degree assortativity using th
 
 It is possible to notice that airports in Brazil, both nationally and regionally, are disassociative, since they all have negative degree assortativity coefficients. This means that airports with many connections do not necessarily connect only to airports with many connections.
 
+## Connected components
+
+The network is not connected and has 6 connected components. For each of them, an analysis was performed considering all five regions of Brazil in quantity and percentage. 
+
+Thus, for each connected component, the values obtained can be visualized in the figure below.
+
+<p align="center" style="text-align:center">
+    <img width='100%' src='./img/regions.png'>
+</p align="center">
+
 ## Shortest path
 
-Create a simulated scenario, where you want to take a trip with the following route:
+To understand the concept of shortest path, it was proposed to study the following simulated scenario, where it would be made a trip with the following route:
 
 *   City 1 (North) to city 2 (South)
 *   City 2 (South) to city 3 (Northeast)
 *   City 3 (Northeast) to city 4 (Central-West)
 *   City 4 (Central-West) to city 5 (Southeast)
-
-#### Solution
 
 To create this simulated scenario, five cities were chosen, one from each region of Brazil, and they were related to their respective airports through the creation of a dictionary. Below are the cities and airports chosen for each Brazilian region:
 
@@ -72,8 +80,12 @@ Then, for each path, `shortest_path` and `shortest_path_length` functions from `
 Table with each path:
 
 Path                                           | Path length 
-:-------------------------------------------- | :------:
+:--------------------------------------------  | :------:
 City1 (Novo Progresso) -> City2 (Canela)       | 3   
 City2 (Canela) -> City3 (Ilhéus)               | 2   
 City3 (Ilhéus) -> City4 (Anápolis)             | 1    
 City4 (Anápolis) -> City5 (Ribeirão Preto)     | 1    
+
+## References
+- [Álvaro's Repository](https://github.com/alvarofpp/dataset-flights-brazil)
+- [Ivanovitch's Repository](https://github.com/ivanovitchm/datastructure)
