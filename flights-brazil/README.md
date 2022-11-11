@@ -29,15 +29,11 @@ With this, the assortativity coefficient based on a give node atribute was calcu
 5| 0.0070922  | 0.01983599 | 0.02759309 | 0.02293883 | **0.05363475**
 
 
-## Question 2
+## Degree assortativity
 
-Perform a bivariate analysis between the degree of the vertex and the average number of neighbors.
+It was proposed to perform a bivariate analysis between the degree of the vertex and the average number of neighbors. First of all, it's important to understand the concept of assortativity, as it was explained above, and then, understand better the concept of degree assortativity, which is one way to check the assortativity in a network.
 
-#### Solution
-
-First of all, it's important to understand the concept of assortativity. Assortativity is a metric that evaluates homophily, and this is a property that evaluates whether nodes of the same "type" have more connections, that is, most connections happen between similar nodes.
-
-One way to check the assortativity is from the degree assortativity. It bases the assortativity by the degree of the nodes, and the degree assortativity can be measured with the Pearson's correlation coefficient. This coefficient can variate between -1 and 1, where:
+This property bases the assortativity by the degree of the nodes, and the degree assortativity can be measured with the Pearson's correlation coefficient. This coefficient can variate between -1 and 1, where:
 
 *   -1: the network is extremely disassortativity (according to the degree), in other words, different elements connect with each other (in this case, nodes with high degree connect with nodes with low degree);
 *    1: the network is extremely assortativity (according to the degree), in other words, similar elements connect with each other (in this case, nodes with high degree connect with nodes with high degree)
@@ -48,7 +44,7 @@ Understanding that, it was made an analysis of the degree assortativity using th
 
 It is possible to notice that airports in Brazil, both nationally and regionally, are disassociative, since they all have negative degree assortativity coefficients. This means that airports with many connections do not necessarily connect only to airports with many connections.
 
-## Question 4
+## Shortest path
 
 Create a simulated scenario, where you want to take a trip with the following route:
 
