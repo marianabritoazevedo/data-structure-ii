@@ -2,7 +2,7 @@
 
 This work aims to perform an analysis on the Brazilian flight network and was done by [Mariana Azevedo](https://github.com/marianabritoazevedo/data-structure-ii/tree/main/flights-brazil) and [Thaís Medeiros](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/tree/main/week%2010). For this, the dataset present in the [Álvaro's Repository](https://github.com/alvarofpp/dataset-flights-brazil) was used.
 
-This analysis aims to solve questions 1 to 4 proposed in a data structure activity related to graphs, studying several properties of this network: assortativity, degree assortativity, connected componentes and shortest path.
+So, questions 1 to 4 proposed in a data structure activity related to graphs will be solved, studying several properties of this network: assortativity, degree assortativity, connected componentes and shortest path.
 
 ## Assortativity
 
