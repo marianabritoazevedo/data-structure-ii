@@ -96,9 +96,7 @@ git clone https://github.com/marianabritoazevedo/data-structure-ii.git
 
 2- Upload the file `flights_brazil.ipynb` (inside the folder `flights_brasil`) to your Google Colaboratory
 
-3- Open the file `flights_brazil.ipynb` and upload the zip file `zip-flights-brazil.zip`
-
-4- Run all the cells of the Colab notebook
+3- Open the file `flights_brazil.ipynb` and run all the cells of the Colab notebook
 
 ## References
 - [Álvaro's Repository](https://github.com/alvarofpp/dataset-flights-brazil)
