@@ -10,8 +10,6 @@ In this way, the network from wikipedia links, starting with `2022 FIFA World Cu
 
 The image below shows the process of cleaning data for the creation of this network. Initially, after collecting all the links with only one layer deep, there were 78588 nodes and 212551 edges. Then, two steps of pre-processing were made: eliminate duplicated nodes and eliminate nodes with degree = 1. After these steps, the final network had 27055 nodes and 161018 edges.
 
-![Img preprocessing](./img/img1-t3-u2.png)
-
 <p align="center">
   <img src="./img/img1-t3-u2.png">
 </p>
