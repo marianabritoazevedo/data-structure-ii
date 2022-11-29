@@ -12,3 +12,7 @@ The image below shows the process of cleaning data for the creation of this netw
 
 ![Img preprocessing](./img/img1-t3-u2.png)
 
+<p align="center">
+  <img src="./img/img1-t3-u2.png">
+</p>
+
