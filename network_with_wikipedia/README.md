@@ -16,3 +16,14 @@ The image below shows the process of cleaning data for the creation of this netw
   <img src="./img/img1-t3-u2.png">
 </p>
 
+### Exploring the network
+
+#### Most significant nodes
+
+To visualize the most significant nodes of this network, it was calculated the `indegree` of each degree, which is, the number of connections entering the node, since this is a network directed.
+
+The image below shows the top 10 of these most significant nodes, but it's possible to conclude that most of these nodes refer to past World Cup editions, to soccer-related terms, or even to some prominent teams, including the Brazilian team.
+
+<p align="center">
+  <img src="./img/img2-t3-u2.png">
+</p>
