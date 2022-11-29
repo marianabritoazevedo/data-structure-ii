@@ -1,6 +1,6 @@
 ## Building a network with wikipedia
 
-This project aims to build a network from wikipedia page links, and perform many analyses in this network. For this, the `2022 FIFA World Cup` wikipedia page was used as the initial node of the network.
+This project aims to build a network from wikipedia page links, and perform many analyses in this network. For this, the `2022 FIFA World Cup` wikipedia page was used as the initial node of the network. For this, some python libraries were used to help in this construction, such as the `networkx` and `wikipedia` libraries.
 
 ![Img copa](https://mundoconectado.com.br/uploads/chamadas/copa-2022_2.jpg)
 
@@ -27,3 +27,7 @@ The image below shows the top 10 of these most significant nodes, but it's possi
 <p align="center">
   <img src="./img/img2-t3-u2.png">
 </p>
+
+#### Degree, closeness, betweenness and eigenvector centrality
+
+To do
