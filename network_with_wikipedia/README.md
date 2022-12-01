@@ -67,3 +67,15 @@ Thus, in order to try to carry out a more detailed analysis in relation to degre
 <p align="center">
   <img src="./img/graficos-degree-2.png">
 </p>
+
+Similarly, the same analysis was performed for the closeness centraliy metric. It was not necessary to filter the graph, as in the previous case, since the data were already well distributed, with the highest occurrences 0.006 and 0.01, as seen in the figure below.
+
+<p align="center">
+  <img src="./img/histograma2.png">
+</p>
+
+Then, plotting the histogram with the CDF and PDF functions, it is possible to see that approximately 90% of the network nodes have a closeness centrality value equal to or less than 0.008.
+
+<p align="center">
+  <img src="./img/grafico-closeness.png">
+</p>
