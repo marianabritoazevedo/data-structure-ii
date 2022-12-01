@@ -61,3 +61,9 @@ Then, this histogram was plotted with the PDF and CDF curves, as can be seen in 
 <p align="center">
   <img src="./img/graficos-degree-1.png">
 </p>
+
+Thus, in order to try to carry out a more detailed analysis in relation to degree, the network nodes were filtered, so that a subgraph was built only with nodes of degree 100 or higher. It can be noticed that the histogram has already become more distributed, as seen in the plots below, and that approximately 60% of the nodes (among the nodes with degree greater than 100) have a degree in the range of 100-200.
+
+<p align="center">
+  <img src="./img/graficos-degree-2.png">
+</p>
