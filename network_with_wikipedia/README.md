@@ -1,4 +1,4 @@
-## Building a network with wikipedia
+# Building a network with wikipedia
 
 This project aims to build a network from wikipedia page links, and perform many analyses in this network. For this, the `2022 FIFA World Cup` wikipedia page was used as the initial node of the network. For this, some python libraries were used to help in this construction, such as the `networkx` and `wikipedia` libraries.
 
@@ -8,7 +8,7 @@ In this way, the network from wikipedia links, starting with `2022 FIFA World Cu
 
 It is important to highlight that this work was carried out in a group. This work was done by me, [Mariana Azevedo](https://github.com/marianabritoazevedo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/marianabritoazevedo/embedded-ai/tree/main/LeNet-IvaNet),  [Morsinaldo Medeiros](https://github.com/Morsinaldo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/Morsinaldo/embedded_artificial_intelligence/tree/main/projects/lenet5) and [Thaís Medeiros](https://github.com/thaisaraujo2000?tab=repositories) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/thaisaraujo2000/embedded_artificial_intelligence/tree/main/projects/project_2)
 
-### Pre-processing the network
+## Pre-processing the network
 
 The image below shows the process of cleaning data for the creation of this network. Initially, after collecting all the links with only one layer deep, there were 78588 nodes and 212551 edges. Then, two steps of pre-processing were made: eliminate duplicated nodes and eliminate nodes with degree = 1. After these steps, the final network had 27055 nodes and 161018 edges.
 
@@ -16,9 +16,9 @@ The image below shows the process of cleaning data for the creation of this netw
   <img src="./img/img1-t3-u2.png">
 </p>
 
-### Exploring the network
+## Exploring the network
 
-#### Most significant nodes
+### Most significant nodes
 
 To visualize the most significant nodes of this network, it was calculated the `indegree` of each degree, which is, the number of connections entering the node, since this is a network directed.
 
@@ -28,7 +28,7 @@ The image below shows the top 10 of these most significant nodes, but it's possi
   <img src="./img/img2-t3-u2.png">
 </p>
 
-#### Degree, closeness, betweenness and eigenvector centrality
+### Degree, closeness, betweenness and eigenvector centrality
 
 Before checking the results, it is important to understand what these concepts mean:
 
@@ -39,7 +39,7 @@ Before checking the results, it is important to understand what these concepts m
 
 PUT IMAGE
 
-#### Centrality distributions
+### Centrality distributions
 
 The centrality distributions will be analyzed according to two metrics: degree and closeness centrality, both previously seen in the previous topic.
 
