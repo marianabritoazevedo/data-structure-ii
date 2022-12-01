@@ -40,3 +40,11 @@ Before checking the results, it is important to understand what these concepts m
 PUT IMAGE
 
 #### Centrality distributions
+
+The centrality distributions will be analyzed according to two metrics: degree and closeness centrality, both previously seen in the previous topic.
+
+For this, it is important to understand two important concepts of statistics for read the graphs:
+
+* __PDF__: Probability Density Function. For this case, it will describe that approximately X% of the nodes have degree/closeness centrality equal to Y;
+
+* __CDF__: Cumulative Density Function. For this case, it will describe that approximately X% of the nodes have degree/closeness centrality equal to or less than Y.
