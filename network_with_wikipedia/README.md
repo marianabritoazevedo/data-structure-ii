@@ -46,5 +46,18 @@ The centrality distributions will be analyzed according to two metrics: degree a
 For this, it is important to understand two important concepts of statistics for read the graphs:
 
 * __PDF__: Probability Density Function. For this case, it will describe that approximately X% of the nodes have degree/closeness centrality equal to Y;
-
 * __CDF__: Cumulative Density Function. For this case, it will describe that approximately X% of the nodes have degree/closeness centrality equal to or less than Y.
+
+__Centrality distribution for degree__
+
+First, the histogram was plotted for the analysis of the data referring to the degree of each node in the network, and as can be seen in the figure below, it appears that most nodes have a step value of less than 250.
+
+<p align="center">
+  <img src="./img/histograma-t3-u2.png">
+</p>
+
+Then, this histogram was plotted with the PDF and CDF curves, as can be seen in the figure below, and it is possible to see that many nodes have a degree below 100. When checked in the CDF curve, it is inferred that it comes very close to 100% nodes with degree less than 100.
+
+<p align="center">
+  <img src="./img/graficos-degree-1.png">
+</p>
