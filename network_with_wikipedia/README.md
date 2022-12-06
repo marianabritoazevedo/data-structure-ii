@@ -37,7 +37,13 @@ Before checking the results, it is important to understand what these concepts m
 *  __Betweenness centrality__: checks the position of a node on the shortest path. That is, if I am analyzing `node i`, among all the shortest paths from `node j` to `node h`, how many of these paths does `node i` form part of?
 *  __Eigenvector centrality__: checks the importance of a node based on the importance of its neighbors, that is, it checks whether a given node has important neighbors.
 
-PUT IMAGE
+The `wikipedia.ipynb` notebook has the functions responsible for generating the graph images referring to the metrics mentioned above. However, as the network is very large, the [Gephi](https://gephi.org/) tool was used to generate a better visualization. Regarding this issue, to further improve this visualization, a filter was performed on the original network, leaving the nodes with a degree greater than or equal to 4. It is noteworthy that, in all visualizations, the lighter colors represent the lowest values, and the darkest colors represent the highest values, regardless of the metric being analyzed.
+
+The first metric, referring to the degree, can be seen in the figure below. The figure shows only the labels for nodes with degree above 1000
+
+<p align="center">
+  <img src="./img/degree_centrality.png">
+</p>
 
 ### Centrality distributions
 
