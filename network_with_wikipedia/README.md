@@ -41,7 +41,7 @@ The `wikipedia.ipynb` notebook has the functions responsible for generating the 
 
 __Degree__
 
-The first metric, referring to the degree, can be seen in the figure below. The figure shows only the labels for nodes with degree above 1000
+The first metric, referring to the degree, can be seen in the figure below. The figure shows only the labels for nodes with degrees above 1000, and it is possible to see that most of the nodes with high values for degrees refer to some previous edition of the world cup.
 
 <p align="center">
   <img src="./img/degree_centrality.png">
@@ -49,17 +49,23 @@ The first metric, referring to the degree, can be seen in the figure below. The 
 
 __Closeness centrality__
 
+Here, the metric referring to closeness centrality is visible. The labels refer to values above 0.5, realizing that these nodes, in general, are also editions of previous world cups, but Rté Television stands out quite perceptibly.
+
 <p align="center">
   <img src="./img/closeness_centrality.png">
 </p>
 
 __Betweenness centrality__
 
+The third metric is betweenness centrality. It is worth noting that, as the search for links from a root page on Wikipedia had a maximum depth equal to 1, this means that this metric had many null values. In the image, we can see the labels for the nodes with a value above 0.002 for this metric, also highlighting terms referring to the world cup.
+
 <p align="center">
   <img src="./img/betweenness_centrality.png">
 </p>
 
 __Eigenvector centrality__
+
+Finally, regarding the eigenvector centrality, the labels refer to nodes with a value above 0.9 for this metric. It is possible to notice that, in general, there is a significant amount of nodes with high values of eigenvector centrality.
 
 <p align="center">
   <img src="./img/eigenvector_centrality.png">
