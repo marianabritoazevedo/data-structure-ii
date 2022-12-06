@@ -39,10 +39,30 @@ Before checking the results, it is important to understand what these concepts m
 
 The `wikipedia.ipynb` notebook has the functions responsible for generating the graph images referring to the metrics mentioned above. However, as the network is very large, the [Gephi](https://gephi.org/) tool was used to generate a better visualization. Regarding this issue, to further improve this visualization, a filter was performed on the original network, leaving the nodes with a degree greater than or equal to 4. It is noteworthy that, in all visualizations, the lighter colors represent the lowest values, and the darkest colors represent the highest values, regardless of the metric being analyzed.
 
+__Degree__
+
 The first metric, referring to the degree, can be seen in the figure below. The figure shows only the labels for nodes with degree above 1000
 
 <p align="center">
   <img src="./img/degree_centrality.png">
+</p>
+
+__Closeness centrality__
+
+<p align="center">
+  <img src="./img/closeness_centrality.png">
+</p>
+
+__Betweenness centrality__
+
+<p align="center">
+  <img src="./img/betweenness_centrality.png">
+</p>
+
+__Eigenvector centrality__
+
+<p align="center">
+  <img src="./img/eigenvector_centrality.png">
 </p>
 
 ### Centrality distributions
