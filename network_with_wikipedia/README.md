@@ -125,7 +125,7 @@ Core decomposition is relacioned to the cores hierarchy, in which the nodes are 
 By analyzing the network, it was possible to see that it has 106 layers. Therefore, in the figure below it is possible see that the maximum k-core is 168, indicated with blue color, and the k-shell is 123, represented with red color.
 
 <p align="center">
-  <img src="./img/core_dec2.png">
+  <img src="./img/core_d_2_back_white.png">
 </p>
 
 ## References
