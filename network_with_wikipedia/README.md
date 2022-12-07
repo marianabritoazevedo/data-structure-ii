@@ -111,3 +111,25 @@ Then, plotting the histogram with the CDF and PDF functions, it is possible to s
 <p align="center">
   <img src="./img/grafico-closeness.png">
 </p>
+
+After that, it was made a plot which to compare the metrics. On the diagonal, it's possible to notice that the distributions have a long tail to the right side, with a positive symmetry, where many nodes have a small degree, unlike the eigenvector, in which few nodes have an important neighborhood. Also, the eigenvector and closeness have an exponencial trend, i. e., as one increases, the other increases as well. However, there is a limitation in this trend, in that after a certain point, this is no longer a valid thing.
+
+<p align="center">
+  <img src="./img/all.png">
+</p>
+
+### Core Decomposition
+
+Core decomposition is relacioned to the cores hierarchy, in which the nodes are deleted recursively in a network. For this, there are two metrics: k-core and k-shell. A k-core refers to a subnet in which all nodes have at least k neighbors. The nodes eliminated to reach a um k-core are called shell.
+
+By analyzing the network, it was possible to see that it has 106 layers. Therefore, in the figure below it is possible see that the maximum k-core is 168, indicated with blue color, and the k-shell is 123, represented with red color.
+
+<p align="center">
+  <img src="./img/core_dec2.png">
+</p>
+
+## References
+[Ivanovitch's Repository](https://github.com/ivanovitchm/datastructure)
+
+[Vladimir Batagelj and Matjaz Zaversnik. An o (m) algorithm for cores
+decomposition of networks](https://arxiv.org/pdf/cs/0310049.pdf)
