@@ -1,0 +1,708 @@
+0 2022 Fifa World Cup
+1 10,000 Yen Coin
+1 1928 Summer Olympics
+1 1930 Fifa World Cup
+Could not load
+1 1930 Fifa World Cup Final
+1 1930 Fifa World Cup Squads
+Could not load
+1 1934 Fifa World Cup
+Could not load
+1 1934 Fifa World Cup Final
+Could not load
+1 1934 Fifa World Cup Qualification
+Could not load
+1 1934 Fifa World Cup Squads
+Could not load
+1 1938 Fifa World Cup
+Could not load
+1 1938 Fifa World Cup Final
+Could not load
+1 1938 Fifa World Cup Qualification
+Could not load
+1 1938 Fifa World Cup Squads
+Could not load
+1 1950 Fifa World Cup
+Could not load
+1 1950 Fifa World Cup Qualification
+1 1950 Fifa World Cup Squads
+Could not load
+1 1954 Fifa World Cup
+Could not load
+1 1954 Fifa World Cup Final
+Could not load
+1 1954 Fifa World Cup Qualification
+1 1954 Fifa World Cup Squads
+Could not load
+1 1958 Fifa World Cup
+Could not load
+1 1958 Fifa World Cup Final
+1 1958 Fifa World Cup Qualification
+1 1958 Fifa World Cup Squads
+Could not load
+1 1962 Fifa World Cup
+Could not load
+1 1962 Fifa World Cup Final
+1 1962 Fifa World Cup Qualification
+Could not load
+1 1962 Fifa World Cup Squads
+Could not load
+1 1966 Fifa World Cup
+1 1966 Fifa World Cup Final
+Could not load
+1 1966 Fifa World Cup Qualification
+Could not load
+1 1966 Fifa World Cup Squads
+Could not load
+1 1970 Fifa World Cup
+Could not load
+1 1970 Fifa World Cup Final
+Could not load
+1 1970 Fifa World Cup Qualification
+1 1970 Fifa World Cup Squads
+1 1974 Fifa World Cup
+Could not load
+1 1974 Fifa World Cup Final
+1 1974 Fifa World Cup Qualification
+1 1974 Fifa World Cup Squads
+1 1978 Fifa World Cup
+Could not load
+1 1978 Fifa World Cup Final
+1 1978 Fifa World Cup Qualification
+1 1978 Fifa World Cup Squads
+Could not load
+1 1980 World Champions' Gold Cup
+1 1982 Fifa World Cup
+1 1982 Fifa World Cup Final
+1 1982 Fifa World Cup Qualification
+1 1982 Fifa World Cup Squads
+Could not load
+1 1986 Fifa World Cup
+Could not load
+1 1986 Fifa World Cup Final
+1 1986 Fifa World Cup Qualification
+1 1986 Fifa World Cup Squads
+Could not load
+1 1990 Fifa World Cup
+Could not load
+1 1990 Fifa World Cup Final
+Could not load
+1 1990 Fifa World Cup Qualification
+1 1990 Fifa World Cup Squads
+Could not load
+1 1994 Fifa World Cup
+Could not load
+1 1994 Fifa World Cup Final
+Could not load
+1 1994 Fifa World Cup Qualification
+1 1994 Fifa World Cup Squads
+Could not load
+1 1998 Fifa World Cup
+1 1998 Fifa World Cup Final
+1 1998 Fifa World Cup Broadcasting Rights
+1 1998 Fifa World Cup Qualification
+1 1998 Fifa World Cup Seeding
+1 1998 Fifa World Cup Squads
+1 2002 Fifa World Cup
+1 2002 Fifa World Cup (Video Game)
+Could not load
+1 2002 Fifa World Cup Final
+Could not load
+1 2002 Fifa World Cup Group A
+1 2002 Fifa World Cup Group B
+Could not load
+1 2002 Fifa World Cup Group C
+1 2002 Fifa World Cup Group D
+1 2002 Fifa World Cup Group E
+1 2002 Fifa World Cup Group F
+Could not load
+1 2002 Fifa World Cup Group G
+1 2002 Fifa World Cup Group H
+1 2002 Fifa World Cup Broadcasting Rights
+1 2002 Fifa World Cup Disciplinary Record
+1 2002 Fifa World Cup Knockout Stage
+1 2002 Fifa World Cup Qualification
+Could not load
+1 2002 Fifa World Cup Qualification (Afc)
+Could not load
+1 2002 Fifa World Cup Qualification (Caf)
+Could not load
+1 2002 Fifa World Cup Qualification (Concacaf)
+Could not load
+1 2002 Fifa World Cup Qualification (Conmebol)
+Could not load
+1 2002 Fifa World Cup Qualification (Ofc)
+Could not load
+1 2002 Fifa World Cup Qualification (Uefa)
+Could not load
+1 2002 Fifa World Cup Seeding
+1 2002 Fifa World Cup Squads
+Could not load
+1 2002 Fifa World Cup Statistics
+1 2002 World Cup
+1 2002 World Cup (Disambiguation)
+Could not load
+1 2003 Fifa Confederations Cup
+1 2005 Fifa Confederations Cup
+1 2006 Fifa World Cup
+1 2006 Fifa World Cup Final
+1 2006 Fifa World Cup Broadcasting Rights
+1 2006 Fifa World Cup Qualification
+1 2006 Fifa World Cup Seeding
+1 2006 Fifa World Cup Squads
+Could not load
+1 2006 Fifa World Cup Statistics
+1 2010 Fifa World Cup
+1 2010 Fifa World Cup Final
+1 2010 Fifa World Cup Broadcasting Rights
+1 2010 Fifa World Cup Qualification
+1 2010 Fifa World Cup Seeding
+1 2010 Fifa World Cup Squads
+1 2010 Fifa World Cup Statistics
+Could not load
+1 2014 Fifa World Cup
+1 2014 Fifa World Cup Final
+1 2014 Fifa World Cup Bids
+1 2014 Fifa World Cup Broadcasting Rights
+1 2014 Fifa World Cup Qualification
+1 2014 Fifa World Cup Seeding
+1 2014 Fifa World Cup Squads
+1 2014 Fifa World Cup Statistics
+1 2018 Fifa World Cup
+1 2018 Fifa World Cup Final
+1 2018 Fifa World Cup Broadcasting Rights
+1 2018 Fifa World Cup Qualification
+1 2018 Fifa World Cup Seeding
+1 2018 Fifa World Cup Squads
+1 2018 Fifa World Cup Statistics
+1 2018 And 2022 Fifa World Cup Bids
+1 2022 Fifa World Cup Final
+1 2022 Fifa World Cup Broadcasting Rights
+Could not load
+1 2022 Fifa World Cup Qualification
+Could not load
+1 2022 Fifa World Cup Seeding
+Could not load
+1 2022 Fifa World Cup Squads
+Could not load
+1 2022 Fifa World Cup Statistics
+1 2026 Fifa World Cup
+1 2026 Fifa World Cup Bids
+Could not load
+1 2026 Fifa World Cup Qualification
+Could not load
+1 2030 Fifa World Cup
+1 2030 Fifa World Cup Bids
+1 2034 Fifa World Cup
+1 Adidas
+1 Adidas Fevernova
+1 African Nations At The Fifa World Cup
+1 Agustín Delgado
+1 Ahmad Shah Of Pahang
+1 Ahn Jung-Hwan
+1 Alberto García Aspe
+1 Alessandro Del Piero
+1 Ali Bujsaim
+1 All India Football Federation
+1 Alpay Özalan
+1 Anastacia
+1 Anders Frisk
+1 Anders Svensson (Footballer, Born 1976)
+1 Anthem (Fifa World Cup)
+1 Antigua And Barbuda Football Association
+1 Antonio Jesús López Nieto
+1 Antonio López Nieto
+1 Argentina National Football Team
+1 Argentine Football Association
+1 Asahi Shimbun
+1 Asia
+Could not load
+1 Asian Football Confederation
+1 Asian Nations At The Fifa World Cup
+1 Association Football
+1 Australia National Soccer Team
+1 Austrian Football Association
+1 Avaya
+Could not load
+1 Belgium National Football Team
+1 Benin Football Federation
+1 Benni Mccarthy
+Could not load
+1 Bernd Schneider (Footballer)
+1 Beto (Footballer, Born May 1976)
+1 Boeing 747
+1 Bolivian Football Federation
+1 Bonn
+1 Boom (Anastacia Song)
+1 Boris Živković
+1 Brazil
+1 Brazil National Football Team
+1 Brazilian Football Confederation
+1 Brian Hall (Referee)
+1 Brian Mcbride
+1 Budweiser
+1 Bulgaria National Football Team
+1 Busan
+Could not load
+1 Busan Asiad Main Stadium
+1 Busan Asiad Stadium
+1 Busan Exhibition And Convention Center
+1 Byron Moreno
+1 Bülent Korkmaz
+1 Concacaf
+1 Conmebol
+1 Cafu
+Could not load
+1 Cameroon National Football Team
+Could not load
+1 Canadian Soccer Association
+1 Carles Puyol
+1 Carlos Alberto Batres
+1 Carlos Batres
+1 Carlos Eugênio Simon
+1 Carlos Humberto Paredes
+1 Carsten Jancker
+1 Carsten Ramelow
+1 Chile National Football Team
+1 China National Football Team
+1 Chinese Football Association
+1 Choi Jin-Cheul
+1 Christian Vieri
+1 Claudio Caniggia
+1 Claudio Reyna
+1 Clint Mathis
+1 Coffi Codjia
+1 Colombia National Football Team
+1 Colombian Football Federation
+1 Computer-Generated Imagery
+Could not load
+1 Confederation Of African Football
+1 Costa Rica National Football Team
+1 Costa Rican Football Federation
+1 Croatia National Football Team
+1 Cuauhtémoc Blanco
+1 Daegu
+Could not load
+1 Daegu Stadium
+1 Daegu World Cup Stadium
+1 Daejeon
+1 Daejeon World Cup Stadium
+1 Damien Duff
+1 Danish Football Association
+1 Danish Football Union
+1 Darío Rodríguez (Uruguayan Footballer)
+1 David Beckham
+1 David Connolly
+1 David Seaman
+1 Denka Big Swan Stadium
+1 Denmark National Football Team
+1 Dennis Rommedahl
+1 Diego Forlán
+1 Dmitri Sychev
+1 Doi (Identifier)
+1 Duracell
+1 Economics Of The Fifa World Cup
+1 Ecopa Stadium
+1 Ecuador National Football Team
+1 Ecuadorian Football Federation
+1 Edmílson (Footballer, Born 1976)
+1 Egyptian Football Association
+1 El Hadji Diouf
+1 Emile Heskey
+1 Emmanuel Olisadebe
+1 Emmanuel Petit
+1 Emre Belözoğlu
+1 England
+1 England National Football Team
+1 Europe
+1 European Nations At The Fifa World Cup
+1 Extra Time
+1 Fifa
+Could not load
+1 Fifa Fan Festival
+1 Fifa Football 2002
+1 Fifa Men'S World Rankings
+1 Fifa World Cup
+1 Fifa World Cup Fair Play Trophy
+1 Fifa World Cup Organisers
+1 Fifa World Cup Trophy
+1 Fifa World Cup Awards
+1 Fifa World Cup Hosts
+1 Fifa World Cup Mascots
+1 Fifa World Cup Qualification
+1 Fifa World Cup Referees
+1 Fifa World Cup Top Goalscorers
+1 Fifa World Cup Video Games
+1 Falla N'Doye
+1 Federation Of Uganda Football Associations
+1 Felipe Ramos
+1 Felipe Ramos Rizo
+1 Fernando Hierro
+1 Fernando Morientes
+1 Football Association Of Malaysia
+1 Football Association Of Maldives
+1 Football Association Of Norway
+1 Football Association Of Singapore
+1 Football Association Of The Czech Republic
+1 Football Federation Australia
+1 Football Federation Of Belarus
+1 France National Football Team
+1 Francesco Totti
+1 Francisco Arce
+1 French Football Federation
+1 Fuji Xerox
+1 Fujifilm
+1 Fukuroi, Shizuoka
+1 Gabriel Batistuta
+1 Gaizka Mendieta
+1 Gamal Al-Ghandour
+1 Gary Breen
+1 Gerardo Torrado
+1 German Football Association
+1 German National Football Team
+1 Germany
+1 Germany National Football Team
+1 Gilles Veissière
+1 Gillette
+1 Goal! Goal! Goal!!
+1 Goalkeeper (Association Football)
+1 Golden Ball (Fifa)
+1 Golden Goal
+Could not load
+1 Graham Poll
+1 Group Of Death
+1 Guus Hiddink Stadium
+1 Gwangju
+1 Gwangju World Cup Stadium
+1 Hakan Ünsal
+1 Hakan Şükür
+1 Hasan Şaş
+1 Hellenic Football Federation
+1 Henri Camara
+Could not load
+1 Henrik Larsson
+Could not load
+1 Hernán Crespo
+1 Hidetoshi Nakata
+1 Hiroaki Morishima
+1 History Of The Fifa World Cup
+1 Home'S Stadium Kobe
+1 Hong Myung-Bo
+1 Hugh Dallas
+1 Hungarian Football Federation
+1 Hwang Sun-Hong
+1 Hyundai Marine & Fire Insurance
+1 Hyundai Motor Company
+1 Isbn (Identifier)
+1 Issn (Identifier)
+1 Ibaraki, Ibaraki
+Could not load
+1 Incheon
+1 Incheon Munhak Stadium
+1 International Stadium Yokohama
+1 Iran National Football Team
+1 Italian Football Federation
+1 Italy National Football Team
+1 Ivica Olić
+1 Iván Helguera
+1 Jvc
+Could not load
+1 Jamaica Football Federation
+1 Jan Wegereef
+1 Japan
+1 Japan Football Association
+1 Japan Standard Time
+1 Japan National Football Team
+1 Jared Borgetti
+1 Jeff Agoos
+1 Jeju World Cup Stadium
+1 Jenílson Ângelo De Souza
+1 Jeonju
+1 Jeonju World Cup Stadium
+1 Jesús Arellano
+1 Joaquín (Footballer, Born 1981)
+1 Johan Walem
+1 John O'Brien (Soccer)
+1 Jon Dahl Tomasson
+1 Jordan Football Association
+1 Jorge Campos (Paraguayan Footballer)
+1 Jorge Costa (Footballer)
+1 Jorge Luis Campos
+1 João Havelange
+1 João Vieira Pinto
+1 Juan Carlos Valerón
+1 Juanfran (Footballer, Born 1976)
+1 Julius Aghahowa
+1 Junichi Inamoto
+1 Kcc Corporation
+Could not load
+1 Ktf
+Could not load
+1 Kashima, Ibaraki
+1 Kashima Soccer Stadium
+1 Kevin Kilbane
+1 Khalilou Fadiga
+1 Kim Milton Nielsen
+1 Kim Young-Joo
+1 Kobe
+1 Kobe Wing Stadium
+1 Kookmin Bank
+1 Korea Football Association
+1 Korea Standard Time
+1 Korea Telecom
+1 Korean Air
+1 Korean Reunification
+1 Kuwait Football Association
+1 Kyros Vassaras
+1 Landon Donovan
+Could not load
+1 Lebanon Football Association
+1 Lee Eul-Yong
+1 Lennart Johansson
+1 Let'S Get Together Now
+1 Los Angeles Times
+1 Lotte Hotels & Resorts
+1 Lu Jun (Referee)
+1 Lucas Radebe
+1 Luis Marín (Footballer, Born 1974)
+1 Malian Football Federation
+1 Marc Wilmots
+Could not load
+1 Marcin Żewłakow
+1 Marco Bode
+1 Mark Shield
+1 Markus Merk
+Could not load
+1 Mastercard
+Could not load
+1 Matt Holland
+1 Mauricio Wright
+1 Mcdonald'S
+1 Mexican Football Federation
+1 Mexico
+1 Mexico National Football Team
+1 Michael Ballack
+Could not load
+1 Michael Owen
+Could not load
+1 Milan Rapaić
+1 Milenko Ačimovič
+1 Miroslav Klose
+1 Misaki Park Stadium
+1 Miyagi Prefecture
+1 Miyagi Stadium
+1 Mohamed Guezzaz
+1 Morocco National Football Team
+1 Mourad Daami
+1 Munsu Cup Stadium
+1 Ntt Docomo
+1 Nagai Stadium
+1 Nastja Čeh
+1 National Football Federation Of Guatemala
+1 National Team Appearances In The Fifa World Cup
+1 Nelson Cuevas
+1 Netherlands National Football Team
+1 New Zealand Football
+1 Newspapers.Com
+1 Niclas Alexandersson
+1 Nigeria National Football Team
+1 Niigata, Niigata
+1 Niigata Stadium
+1 Nippon Life Insurance
+1 Nippon Telegraph And Telephone
+1 Nissan Stadium (Yokohama)
+1 Nissin Foods
+1 Noevir Stadium Kobe
+1 Nomura Securities
+1 North, Central American And Caribbean Nations At The Fifa World Cup
+1 North Korea National Football Team
+Could not load
+1 Norway National Football Team
+1 Oclc (Identifier)
+1 Oceania Football Confederation
+1 Oceanian Nations At The Fifa World Cup
+1 Oliver Bierhoff
+1 Oliver Kahn
+Could not load
+1 Oliver Neuville
+1 Open Access
+1 Osaka
+1 Overtime (Sports)
+1 Own Goal
+1 Papa Bouba Diop
+1 Pape Thiaw
+1 Paraguay National Football Team
+1 Paraguayan Football Association
+1 Park Ji-Sung
+1 Patrick M'Boma
+1 Patrick Suffo
+1 Pauleta
+1 Paulo Wanchope
+1 Paweł Kryszałowicz
+1 Penalty Kick (Association Football)
+1 Penalty Shoot-Out (Association Football)
+1 Peter Prendergast (Referee)
+1 Peter Van Der Heyden
+1 Philips
+1 Pierluigi Collina
+1 Poland National Football Team
+1 Polish Football Association
+1 Portugal National Football Team
+1 Portuguese Football Federation
+1 Quinton Fortune
+1 Rté Television
+1 Rafael Márquez
+1 Raouf Bouzaiene
+1 Raúl (Footballer)
+1 Referee (Association Football)
+1 René Ortubé
+1 Republic Of Ireland National Football Team
+1 Richard Morales
+1 Rifu, Miyagi
+1 Rio Ferdinand
+1 Rivaldo
+Could not load
+1 Robbie Keane
+Could not load
+1 Roberto Acuña
+1 Roberto Carlos
+Could not load
+1 Romania National Football Team
+1 Ronaldinho
+1 Ronaldo (Brazilian Footballer)
+1 Roque Santa Cruz
+1 Royal Belgian Football Association
+1 Royal Dutch Football Association
+1 Royal Moroccan Football Federation
+1 Royal Spanish Football Federation
+1 Rubén Baraja
+1 Rui Costa
+Could not load
+1 Russia National Football Team
+1 Rónald Gómez
+1 Rüştü Reçber
+1 Saad Kamil Al-Fadhli
+1 Saad Mane
+Could not load
+1 Saitama, Saitama
+1 Saitama Stadium
+1 Saitama Stadium 2002
+1 Salif Diao
+1 Salvadoran Football Association
+1 Samuel Eto'O
+Could not load
+1 Sapporo
+1 Sapporo Dome
+1 Saudi Arabia National Football Team
+1 Saudi Arabian Football Federation
+1 Scotland National Football Team
+1 Scottish Football Association
+1 Seat Of Government
+1 Sebastjan Cimirotič
+1 Senegal
+1 Senegal National Football Team
+1 Senegalese Football Federation
+1 Seogwipo
+1 Seol Ki-Hyeon
+1 Seoul
+1 Seoul Plaza
+1 Seoul World Cup Stadium
+1 Shao Jiayi
+Could not load
+1 Shizuoka, Shizuoka
+1 Shizuoka Stadium
+1 Showa Denko Dome Oita
+1 Siyabonga Nomvethe
+1 Slovak Football Association
+1 Slovenia National Football Team
+1 Sol Campbell
+Could not load
+1 Song Chong-Gug
+1 South Africa National Soccer Team
+1 South American Nations At The Fifa World Cup
+1 South Korea
+1 South Korea National Football Team
+1 Spain
+Could not load
+1 Spain National Football Team
+1 Steve Finnan
+1 Sudden Death (Sport)
+1 Suwon
+1 Suwon World Cup Stadium
+1 Sweden National Football Team
+1 Swedish Football Association
+1 Swiss Football Association
+1 Switzerland National Football Team
+1 Takayuki Suzuki
+1 Teboho Mokoena (Footballer, Born 1974)
+1 Terje Hauge
+1 The Coca-Cola Company
+1 The Doraemons
+1 The Football Association
+1 The Guardian
+1 The Official Album Of The 2002 Fifa World Cup
+1 Thierry Henry
+Could not load
+1 Thomas Linke
+1 Tohoku Denryoku Big Swan Stadium
+1 Tohoku Electric Power Big Swan Stadium
+1 Tokio Marine Nichido
+1 Tokyo
+1 Tokyo Electric Power Company
+1 Torsten Frings
+1 Toru Kamikawa
+1 Toshiba
+Could not load
+1 Trinidad And Tobago Football Federation
+1 Tugay Kerimoğlu
+1 Tunisia National Football Team
+1 Tunisian Football Federation
+1 Turkey
+1 Turkey National Football Team
+1 Uefa
+1 Utc+09:00
+Could not load
+1 Utc+9
+1 Ubaldo Aquino
+1 Ulsan
+1 Ulsan Munsu Football Stadium
+1 United Arab Emirates Football Association
+1 United States
+1 United States Soccer Federation
+1 United States Men'S National Soccer Team
+1 Urs Meier
+1 Uruguay National Football Team
+1 Uruguay V Brazil (1950 Fifa World Cup)
+1 Viaf (Identifier)
+1 Valeri Karpin
+1 Valery Karpin
+1 Vanuatu Football Federation
+1 Vladimir Beschastnykh
+1 Vítor Melo Pereira
+1 Wayback Machine
+1 Wesley Sonck
+1 West Germany
+1 William Mattus
+1 Wing Stadium
+1 Winston Parks
+1 World Cup Golden Boot
+1 World Cup Park
+1 Xavi
+Could not load
+1 Yahoo!
+1 Yanmar Stadium Nagai
+1 Yashin Award
+1 Yegor Titov
+1 Yokohama
+1 Yoo Sang-Chul
+1 Zimbabwe Football Association
+1 Álvaro Recoba
+1 Ángel Sánchez (Referee)
+1 Édison Méndez
+1 Óscar Ruiz
+1 Ümit Davala
+1 İlhan Mansız
+1 Ľuboš Micheľ
+1 Ōita, Ōita
+1 Ōita Bank Dome
+1 Ōita Stadium

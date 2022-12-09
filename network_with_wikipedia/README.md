@@ -8,6 +8,21 @@ In this way, the network from wikipedia links, starting with `2022 FIFA World Cu
 
 It is important to highlight that this work was carried out in a group. This work was done by me, [Mariana Azevedo](https://github.com/marianabritoazevedo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/marianabritoazevedo/embedded-ai/tree/main/LeNet-IvaNet),  [Morsinaldo Medeiros](https://github.com/Morsinaldo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/Morsinaldo/embedded_artificial_intelligence/tree/main/projects/lenet5) and [Thaís Medeiros](https://github.com/thaisaraujo2000?tab=repositories) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/thaisaraujo2000/embedded_artificial_intelligence/tree/main/projects/project_2)
 
+## Data Pipeline
+
+To start, we built a data pipeline to automate the process of extracting, pre-processing, reporting the results, and saving the artifact. Thus, our pipeline consists of three functions or steps, as shown in the figure below. 
+
+<p align='center'>
+<img src='./img/data_pipeline.png', width='1000'>
+</p>
+
+Basically, the pipeline receives as parameter a SEED and a set of STOPS. That is, the seed is the page from which it will start collecting data, while STOPS is a list containing some pages on which it should stop and not collect quotes from pages that are quoted by those on the list. Thus, the pipeline receives the output of one function and passes it as a param to the next function.
+
+For example, the `create_graph` step receives the SEED and STOPS and returns the raw graph. Next, the `preprocessing` step receives the raw graph and returns a processed graph for the `truncate` step to eliminate some duplicate nodes and contract them. In addition, the last step saves the final graph as a .graphml file and reports the results obtained. Finally, the `explore_network` step reports all the graphs with the metrics studied in class, as well as the .txt files containing the extractions performed and the processing performed on the graph.
+
+All outputs from the pipeline can be reached in [pipeline_outputs](./pipeline_outputs/) folder.
+
+
 ## Pre-processing the network
 
 The image below shows the process of cleaning data for the creation of this network. Initially, after collecting all the links with only one layer deep, there were 78588 nodes and 212551 edges. Then, two steps of pre-processing were made: eliminate duplicated nodes and eliminate nodes with degree = 1. After these steps, the final network had 27055 nodes and 161018 edges.
