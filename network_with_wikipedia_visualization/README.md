@@ -31,6 +31,7 @@ In this way, it was decided to make a second visualization referring to the degr
 ### Visualization 2: degree (improved)
 
 :information_source: Repository with more details [here](https://github.com/marianabritoazevedo/gephi-visualization-degree)
+
 :mag_right: Interactive page [here](https://marianabritoazevedo.github.io/gephi-visualization-degree/network/)
 
 To make a better visualization using the degree metric, a filtering was made in the network, keeping only the nodes with degree greater than or equal to 100, and thus, the final network had 460 nodes.
@@ -47,4 +48,18 @@ After performing this division on the data, a new dataset was created, imported 
 
 <p align='center'>
 <img src='./img/grafico-pizza-degree.png'>
+</p>
+
+### Visualization 3: community
+
+:information_source: Repository with more details [here](https://github.com/marianabritoazevedo/gephi-visualization-community)
+
+:mag_right: Interactive page [here](https://marianabritoazevedo.github.io/gephi-visualization-community/network/)
+
+To explore another metric, it was used another metric from Gephi tool. In the `statistics` tab of the gephi software, the `modularity` metric was chosen, within the `community detection` group, to detect communities in the final network. After this execution, 10 different communities were detected in the network.
+
+With this information, the network was styled so that each community was painted in a different color, allowing easy identification, and then the final visualization was produced. The image below has a caption explaining which color is related to which community.
+
+<p align='center'>
+<img src='./img/grafico-pizza-comunidades.png'>
 </p>
