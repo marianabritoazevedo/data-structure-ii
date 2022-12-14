@@ -6,3 +6,19 @@ For the production of interactive network visualizations, the tools used were: [
 
 It is worth mentioning that this work was done in a group, developed by [Mariana Azevedo](https://github.com/marianabritoazevedo), [Morsinaldo Medeiros](https://github.com/Morsinaldo) and [Thaís Medeiros](https://github.com/thaisaraujo2000).
 
+![Img copa](https://mundoconectado.com.br/uploads/chamadas/copa-2022_2.jpg)
+
+## Visualization with Gephi and SigmaExporter
+
+### Visualization 1: degree
+
+Initially, it was thought to perform an interactive visualization based on the degree of the network nodes. For this, using the `pandas` library, the data was divided according to the degree into 5 different groups, as it shows below. More details about that data processing can be check in the notebook `Processing_data_gephi.ipynb`, and it is important to emphasize that this network was filtered and has nodes with step greater than or equal to 4.
+
+*  Group 1: $4 \leq degree \leq 5 $
+*  Group 2: $6 \leq degree \leq 7 $
+*  Group 3: $8 \leq degree \leq 11 $
+*  Group 4: $12 \leq degree \leq 20 $
+*  Group 5: $21 \leq degree \leq 1369 $
+
+After performing this division on the data, a new dataset was created, imported into gephi, and thus produced the final visualization. However, after doing all this process, the final view was not interesting, as can be seen in the image below. The nodes in group 5, despite not being in greater numbers, are dominant in terms of the number of edges, producing a view that is difficult for the other groups to understand.
+
