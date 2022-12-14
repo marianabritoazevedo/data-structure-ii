@@ -22,3 +22,8 @@ Initially, it was thought to perform an interactive visualization based on the d
 
 After performing this division on the data, a new dataset was created, imported into gephi, and thus produced the final visualization. However, after doing all this process, the final view was not interesting, as can be seen in the image below. The nodes in group 5, despite not being in greater numbers, are dominant in terms of the number of edges, producing a view that is difficult for the other groups to understand.
 
+<p align='center'>
+<img src='./img/visualization1.png'>
+</p>
+
+In this way, it was decided to make a second visualization referring to the degree of the network nodes, performing an even greater filtering to preserve only the nodes with a higher value referring to the degree.
