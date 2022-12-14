@@ -30,9 +30,13 @@ In this way, it was decided to make a second visualization referring to the degr
 
 ### Visualization 2: degree (improved)
 
+<hr>
+
 :information_source: Repository with more details [here](https://github.com/marianabritoazevedo/gephi-visualization-degree)
 
 :mag_right: Interactive page [here](https://marianabritoazevedo.github.io/gephi-visualization-degree/network/)
+
+<hr>
 
 To make a better visualization using the degree metric, a filtering was made in the network, keeping only the nodes with degree greater than or equal to 100, and thus, the final network had 460 nodes.
 
