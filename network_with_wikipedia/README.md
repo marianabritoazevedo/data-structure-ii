@@ -6,7 +6,7 @@ This project aims to build a network from wikipedia page links, and perform many
 
 In this way, the network from wikipedia links, starting with `2022 FIFA World Cup` was created and pre-processed, and then, it was analyzed the degree, closeness, betweenness and eigenvector centraility for this network; it was visualized the core and the shell; and finally, it was created a data pipeline for this network, including the steps of collecting data, cleaning data, and export the results of the final artifact.
 
-It is important to highlight that this work was carried out in a group. This work was done by me, [Mariana Azevedo](https://github.com/marianabritoazevedo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/marianabritoazevedo/embedded-ai/tree/main/LeNet-IvaNet),  [Morsinaldo Medeiros](https://github.com/Morsinaldo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/Morsinaldo/embedded_artificial_intelligence/tree/main/projects/lenet5) and [Thaís Medeiros](https://github.com/thaisaraujo2000?tab=repositories) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/thaisaraujo2000/embedded_artificial_intelligence/tree/main/projects/project_2)
+It is important to highlight that this work was carried out in a group. This work was done by [Mariana Azevedo](https://github.com/marianabritoazevedo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/marianabritoazevedo/data-structure-ii/tree/main/network_with_wikipedia),  [Morsinaldo Medeiros](https://github.com/Morsinaldo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/Morsinaldo/data_structure_II/tree/main/network_with_wikipedia) and [Thaís Medeiros](https://github.com/thaisaraujo2000?tab=repositories) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/tree/main/week%2013)
 
 ## Data Pipeline
 
@@ -127,7 +127,7 @@ Then, plotting the histogram with the CDF and PDF functions, it is possible to s
   <img src="./img/grafico-closeness.png">
 </p>
 
-After that, it was made a plot which to compare the metrics. On the diagonal, it's possible to notice that the distributions have a long tail to the right side, with a positive symmetry, where many nodes have a small degree, unlike the eigenvector, in which few nodes have an important neighborhood. Also, the eigenvector and closeness have an exponencial trend, i. e., as one increases, the other increases as well. However, there is a limitation in this trend, in that after a certain point, this is no longer a valid thing.
+After that, it was made a plot which to compare the metrics. On the diagonal, it's possible to notice that the distributions have a long tail to the right side, with a positive symmetry, where many nodes have a small degree, and few nodes have a neighborhood of little importance. Also, the eigenvector and closeness have an exponential trend, i. e., as one increases, the other increases as well. However, there is a limitation in this trend, in that after a certain point, this is no longer a valid thing.
 
 <p align="center">
   <img src="./img/all.png">
@@ -135,9 +135,9 @@ After that, it was made a plot which to compare the metrics. On the diagonal, it
 
 ### Core Decomposition
 
-Core decomposition is relacioned to the cores hierarchy, in which the nodes are deleted recursively in a network. For this, there are two metrics: k-core and k-shell. A k-core refers to a subnet in which all nodes have at least k neighbors. The nodes eliminated to reach a um k-core are called shell.
+Core decomposition is relacioned to the cores hierarchy, in which the nodes are deleted recursively in a network. For this, there are two metrics: k-core and k-shell. A k-core refers to a subnet in which all nodes have at least k neighbors. The nodes eliminated to reach a k-core are called shell.
 
-By analyzing the network, it was possible to see that it has 106 layers. Therefore, in the figure below it is possible see that the maximum k-core is 168, indicated with blue color, and the k-shell is 123, represented with red color.
+By analyzing the network, it was possible to see that it has 106 layers. Therefore, in the figure below it is possible to see that the maximum k-core is 168, indicated with blue color, and the k-shell is 123, represented with red color.
 
 <p align="center">
   <img src="./img/core_d_2_back_white.png">
