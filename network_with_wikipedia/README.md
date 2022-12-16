@@ -1,12 +1,14 @@
-# Building a network with wikipedia
+# Building a network with Wikipedia
 
-This project aims to build a network from wikipedia page links, and perform many analyses in this network. For this, the `2022 FIFA World Cup` wikipedia page was used as the initial node of the network. For this, some python libraries were used to help in this construction, such as the `networkx` and `wikipedia` libraries.
+This project aims to build a network from wikipedia page links, and perform many analyses in this network. For this, the `2022 FIFA World Cup` Wikipedia page was used as the initial node of the network. For this, some python libraries were used to help in this construction, such as the `networkx` and `wikipedia` libraries.
 
 ![Img copa](https://mundoconectado.com.br/uploads/chamadas/copa-2022_2.jpg)
 
-In this way, the network from wikipedia links, starting with `2022 FIFA World Cup` was created and pre-processed, and then, it was analyzed the degree, closeness, betweenness and eigenvector centraility for this network; it was visualized the core and the shell; and finally, it was created a data pipeline for this network, including the steps of collecting data, cleaning data, and export the results of the final artifact.
+In this way, the network from Wikipedia links, starting with `2022 FIFA World Cup` was created and pre-processed, and then, it was analyzed the degree, closeness, betweenness and eigenvector centraility for this network; it was visualized the core and the shell; and finally, it was created a data pipeline for this network, including the steps of collecting data, cleaning data, and export the results of the final artifact.
 
-It is important to highlight that this work was carried out in a group. This work was done by [Mariana Azevedo](https://github.com/marianabritoazevedo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/marianabritoazevedo/data-structure-ii/tree/main/network_with_wikipedia),  [Morsinaldo Medeiros](https://github.com/Morsinaldo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/Morsinaldo/data_structure_II/tree/main/network_with_wikipedia) and [Thaís Medeiros](https://github.com/thaisaraujo2000?tab=repositories) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/tree/main/week%2013)
+It is important to highlight that this work was carried out in a group. This work was done by [Mariana Azevedo](https://github.com/marianabritoazevedo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/marianabritoazevedo/data-structure-ii/tree/main/network_with_wikipedia),  [Morsinaldo Medeiros](https://github.com/Morsinaldo) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/Morsinaldo/data_structure_II/tree/main/network_with_wikipedia) and [Thaís Medeiros](https://github.com/thaisaraujo2000) [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/tree/main/week%2013)
+
+You can check out our video about this project on [![Open on Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=Youtube)](https://www.youtube.com/watch?v=setncvImDgY)
 
 ## Data Pipeline
 
@@ -142,6 +144,118 @@ By analyzing the network, it was possible to see that it has 106 layers. Therefo
 <p align="center">
   <img src="./img/core_d_2_back_white.png">
 </p>
+
+
+## Network Visualization
+
+It is also possible to get other ways to visualize our network through tools such as [Gephi](https://gephi.org/), with the `SigmaExporter` plugin, [Retina](https://ouestware.gitlab.io/retina/beta/), and [Gephisto](https://jacomyma.github.io/gephisto/). The productions of these tools will be explored separately for each tool.
+
+### Visualization using Gephi and SigmaExporter
+
+#### Visualization 1: degree
+
+Initially, it was thought to perform an interactive visualization based on the degree of the network nodes. For this, using the `pandas` library, the data was divided according to the degree into 5 different groups, as it shows below. More details about that data processing can be check in the notebook `Processing_data_gephi.ipynb`, and it is important to emphasize that this network was filtered and has nodes with step greater than or equal to 4.
+
+*  Group 1: $4 \leq degree \leq 5 $
+*  Group 2: $6 \leq degree \leq 7 $
+*  Group 3: $8 \leq degree \leq 11 $
+*  Group 4: $12 \leq degree \leq 20 $
+*  Group 5: $21 \leq degree \leq 1369 $
+
+After performing this division on the data, a new dataset was created, imported into gephi, and thus produced the final visualization. However, after doing all this process, the final view was not interesting, as can be seen in the image below. Despite not being in greater numbers, the nodes in group 5 (color blue) are dominant in terms of the number of edges, producing a view that is difficult for the other groups to understand.
+
+<p align='center'>
+<img src='./img/visualization1.png'>
+</p>
+
+In this way, it was decided to make a second visualization referring to the degree of the network nodes, performing an even greater filtering to preserve only the nodes with a higher value referring to the degree.
+
+#### Visualization 2: degree (improved)
+
+---
+
+:information_source: Repository with more details [here](https://github.com/marianabritoazevedo/gephi-visualization-degree)
+
+:mag_right: Interactive page [here](https://marianabritoazevedo.github.io/gephi-visualization-degree/network/)
+
+---
+
+To make a better visualization using the degree metric, a filtering was made in the network, keeping only the nodes with degree greater than or equal to 100, and thus, the final network had 460 nodes.
+
+Then, using the `pandas` library, the data was divided according to the degree into 5 different groups. More details about that data processing can be check in the notebook `Processing_data_gephi.ipynb`.
+
+*  Group 1: $100 \leq degree \leq 199 $
+*  Group 2: $200 \leq degree \leq 299 $
+*  Group 3: $300 \leq degree \leq 499 $
+*  Group 4: $500 \leq degree \leq 699 $
+*  Group 5: $700 \leq degree \leq 1369 $
+
+After performing this division on the data, a new dataset was created, imported into gephi, and thus produced the final visualization. The image below shows the colors chosen to represent each group, as well as the percentage of each. It is noticed that almost half of the nodes in this network belong to the first group, with degrees between 100 and 199.
+
+<p align='center'>
+<img src='./img/grafico-pizza-degree.png'>
+</p>
+
+#### Visualization 3: community
+
+---
+
+:information_source: Repository with more details [here](https://github.com/marianabritoazevedo/gephi-visualization-community)
+
+:mag_right: Interactive page [here](https://marianabritoazevedo.github.io/gephi-visualization-community/network/)
+
+---
+
+To explore another metric, it was used another metric from Gephi tool. In the `statistics` tab of the gephi software, the `modularity` metric was chosen, within the `community detection` group, to detect communities in the final network. After this execution, 10 different communities were detected in the network.
+
+With this information, the network was styled so that each community was painted in a different color, allowing easy identification, and then the final visualization was produced. The image below has a caption explaining which color is related to which community.
+
+<p align='center'>
+<img src='./img/grafico-pizza-comunidades.png'>
+</p>
+
+### Visualization using Gephisto
+
+Gephisto is an online graph visualization tool that is very straightforward, i.e. you don't need any configuration or in-depth knowledge to visualize the network. All you need to do is upload the file to the site and it generates the visualization.
+
+#### Visualization 1
+
+The first visualization was done using the file [degrees.graphml](./graph_files) in which it divides the network according to the degree of the nodes. Also, to improve the visualization, only nodes with a degree greater than or equal to 100 were kept. The image below shows the result of the visualization.
+
+<p align='center'>
+<img src='./img/gephisto_degree.png'>
+</p>
+
+From the graph above, you can see that the network generated by our seed is strongly connected with the World Cup pages from previous years, as well as some famous players, some countries and other soccer leagues. Thus, it is possible to notice the pages that are most related to the 2022 world cup page. This is interesting to extract several insights, such as, for example: Are the players of the national teams that are playing in the cup predominantly from the mentioned soccer leagues?; Are the most quoted players still playing? And so on.
+
+#### Visualization 2
+
+The second visualization was done using the file [community.graphml](./graph_files) in which it divides the network according to the community of the nodes. Also, to improve the visualization, only nodes with a degree greater than or equal to 4 were kept. The image below shows the result of the visualization.
+
+<p align='center'>
+<img src='./img/gephisto_community.png'>
+</p>
+
+In the graph divided by communities, it is possible to see the prominence of nodes containing, mainly, the name of players, the name of teams, some newspapers, among others. Thus, it is possible to extract insights similar to those mentioned above, as well as others such as: The highlighted players played in which teams of the leagues also mentioned? Have the highlighted cities hosted or will host a World Cup? And so on.
+
+### Visualization using Retina
+Retina is a tool developed that you to visualize the network in a more interactive way. The tool is very simple to use, you just need to upload the file and it generates the visualization. For this, the file [community_metrics.graphml](./graph_files) was used.
+You can watch the [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f1086e48e7764d9ba50e6928d5bfe3b2) to see details about the visualization.
+
+## How to execute
+
+To run this project with your `SEED`, you only need to change this parameter and the stop lists in the [Data Pipeline Notebook](data_pipeline.ipynb), as shown below.
+
+```python
+# setup seed and stops
+SEED = "2022 FIFA World Cup".title()
+STOPS = ("FIFA",
+         "FIFA 2022",
+         "FIFA World Cup",
+         "2022 tournament")
+```
+
+After that, just run all the cells and the pipeline will return all the results and the .graphml file to you.
 
 ## References
 [Ivanovitch's Repository](https://github.com/ivanovitchm/datastructure)
